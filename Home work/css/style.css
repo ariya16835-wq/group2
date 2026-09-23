@@ -1,0 +1,77 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body{
+    font-size: 1;
+    line-height: 1.6;
+    margin-top: 7px;
+    padding: 20px; ;
+}
+.box1{
+    width: 23.4%;
+    height: 300px;
+    background-color:whitesmoke;
+    float: left;
+    padding: 25px;
+    border: 1px solid black;
+    margin-left:1% ;
+}
+.box2{
+   width: 23.4%;
+    height: 300px;
+    background-color:whitesmoke;
+    float: left;
+    padding: 25px;
+    border: 1px solid black; 
+    margin: 0 1% 0 1.50%;
+}
+.box3{
+    width: 23.4%;
+    height: 300px;
+    background-color:whitesmoke;
+    float: left;
+    padding: 25px;
+    border: 1px solid black;
+    margin: 0 1.50% 0 1.30%; 
+}
+.box4{
+    width: 23.4%;
+    height: 300px;
+    background-color:whitesmoke;
+    float: left;
+    padding: 25px;
+    border: 1px solid black;    
+}
+.box5{
+    width: 100%;
+    height: 450px;
+    background-color:whitesmoke;
+    float: left;
+    /* padding: 8px; */
+    border: 1px solid black; 
+    margin:10px 3% 0 1% ;
+
+}
+.card-img{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(81, 84, 68);
+}
+.card-text{
+    width: 100%;
+    height: 120px;
+    text-align: justify;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.box5 img{
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    /* display: block; */
+}
+
